@@ -17,7 +17,6 @@
   <img align="center" alt="Alexandra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alexandra-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="right" alt="Alexandra-pic" height="150" style="border-radius:50px;" src="https://instagram.fpoa27-1.fna.fbcdn.net/v/t51.2885-19/264540803_133080822447353_2688341367757604935_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpoa27-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=dVCA_3liuUMAX-dg-Hv&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT9g7jOsl0xKZzjmIDWK0JEfN-bqRo0klmuEaoma4CjBSA&oe=624034B7&_nc_sid=9a90d6">
 </div>
   
   ##
