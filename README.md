@@ -1,11 +1,11 @@
 ## Olá! Eu sou a Alexandra Costa, QA e desenvolvedora de testes automatizados!
 
-- 🔭 Atualmente trabalho como Analista de testes 
+- 🔭 Atualmente trabalho como Analista de testes;
 - 🌱 Estudando:
      -  JavaScript com Cypress;
      -  JavaScript com K6 (Automation Load Test Tool);
      -  Java com JUnit 5;
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ela/dela;
 
 <div align="center">
   <a href="https://github.com/alexandra-costa">
